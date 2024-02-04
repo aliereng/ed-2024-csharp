@@ -1,0 +1,15 @@
+/home/aeggea/Belgeler/ed_csharp/intro/bin/Debug/net6.0/intro
+/home/aeggea/Belgeler/ed_csharp/intro/bin/Debug/net6.0/intro.deps.json
+/home/aeggea/Belgeler/ed_csharp/intro/bin/Debug/net6.0/intro.runtimeconfig.json
+/home/aeggea/Belgeler/ed_csharp/intro/bin/Debug/net6.0/intro.dll
+/home/aeggea/Belgeler/ed_csharp/intro/bin/Debug/net6.0/intro.pdb
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.csproj.AssemblyReference.cache
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.AssemblyInfoInputs.cache
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.AssemblyInfo.cs
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.csproj.CoreCompileInputs.cache
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.dll
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/refint/intro.dll
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.pdb
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/intro.genruntimeconfig.cache
+/home/aeggea/Belgeler/ed_csharp/intro/obj/Debug/net6.0/ref/intro.dll
